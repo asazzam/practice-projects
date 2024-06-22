@@ -12,6 +12,7 @@ body {
 .container {
   text-align: center;
   width: 300px;
+  position: relative;
 }
 
 .counter {
